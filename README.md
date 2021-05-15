@@ -2,10 +2,14 @@
 
 Inventory Management API server
 
-Add new Product
-Remove Product
-Update Product
+Product APIs:
 
-List Inventory status
-Update Inventory status
-Allocate Inventory
+* Add new Product
+* Remove Product
+* Update Product
+
+Inventory APIs:
+
+* List Inventory status
+* Update Inventory status
+* Allocate Inventory
